@@ -1,1 +1,5 @@
 # MY-VIRTUAL-ASSISTANT
+
+*DESCRIPTION* :
+
+provided a simple yet interactive web-based virtual assistant named Tara, built using HTML, CSS, and JavaScript. The HTML structure defines a clean interface with images and a button to initiate voice commands. The CSS file adds a stylish appearance with custom fonts, gradients, and responsive design elements. The JavaScript code handles the main functionality by integrating the Web Speech API for both speech recognition and speech synthesis. When the user clicks the button, Tara listens for voice input, processes the command, and responds accordingly. Tara can greet based on the time of day, open websites like YouTube, Instagram, and WhatsApp, tell the current time, or search the internet for general queries. The assistant attempts to select a female voice for a natural-sounding interaction. Overall, this project demonstrates how to create a functional, browser-based AI voice assistant with personalized behavior and voice feedback using standard web technologies.
