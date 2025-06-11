@@ -13,3 +13,6 @@ provided a simple yet interactive web-based virtual assistant named Tara, built 
 *OUTPUT VIDEO* :
 
 
+https://github.com/user-attachments/assets/f39ad47f-615e-43be-8e15-f5bd20ef7ce3
+
+
